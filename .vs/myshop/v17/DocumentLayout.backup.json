@@ -1,0 +1,1076 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\myshop.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\myshop.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.dataaccess\\myshop.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\myshop.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7976F755-B209-4B74-B2E1-02FE973939CE}|myshop.Utilities\\myshop.Utilities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.utilities\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7976F755-B209-4B74-B2E1-02FE973939CE}|myshop.Utilities\\myshop.Utilities.csproj|solutionrelative:myshop.utilities\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\repositories\\ishoppingcartrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\repositories\\ishoppingcartrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\repositories\\iorderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\repositories\\iorderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\repositories\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\repositories\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\repositories\\icategoryrepository - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\repositories\\icategoryrepository - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.dataaccess\\implementation\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.dataaccess\\migrations\\20231120061040_addorderstbles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\migrations\\20231120061040_addorderstbles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.dataaccess\\migrations\\20230521205000_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\migrations\\20230521205000_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7976F755-B209-4B74-B2E1-02FE973939CE}|myshop.Utilities\\myshop.Utilities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.utilities\\myshop.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7976F755-B209-4B74-B2E1-02FE973939CE}|myshop.Utilities\\myshop.Utilities.csproj|solutionrelative:myshop.utilities\\myshop.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.entities\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\wwwroot\\images\\products\\16334666-9418-4950-a62a-d40d855aa437.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\wwwroot\\images\\products\\16334666-9418-4950-a62a-d40d855aa437.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\wwwroot\\images\\products\\5f4d61ba-5f02-4a22-8305-1148a341710f.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\wwwroot\\images\\products\\5f4d61ba-5f02-4a22-8305-1148a341710f.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\wwwroot\\images\\products\\94ce7506-5034-4417-a9f2-4697c06ea99a.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\wwwroot\\images\\products\\94ce7506-5034-4417-a9f2-4697c06ea99a.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\wwwroot\\images\\products\\8b3492a3-7fbd-4356-adaf-532482a6e48e.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\wwwroot\\images\\products\\8b3492a3-7fbd-4356-adaf-532482a6e48e.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\wwwroot\\images\\products\\6f147049-df7e-4877-ab8f-56d8966dac89.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\wwwroot\\images\\products\\6f147049-df7e-4877-ab8f-56d8966dac89.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\wwwroot\\images\\products\\8fc0a8d0-f1c0-4bca-9b0a-2cebff026cda.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\wwwroot\\images\\products\\8fc0a8d0-f1c0-4bca-9b0a-2cebff026cda.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\wwwroot\\images\\products\\cc5daf8c-d71b-4a7b-b212-f923aa0274a9.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\wwwroot\\images\\products\\cc5daf8c-d71b-4a7b-b212-f923aa0274a9.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7976F755-B209-4B74-B2E1-02FE973939CE}|myshop.Utilities\\myshop.Utilities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.utilities\\stripedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7976F755-B209-4B74-B2E1-02FE973939CE}|myshop.Utilities\\myshop.Utilities.csproj|solutionrelative:myshop.utilities\\stripedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\myshop.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\myshop.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7976F755-B209-4B74-B2E1-02FE973939CE}|myshop.Utilities\\myshop.Utilities.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7976F755-B209-4B74-B2E1-02FE973939CE}|myshop.Utilities\\myshop.Utilities.csproj|solutionrelative:myshop.utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.dataaccess\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.dataaccess\\implementation\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.dataaccess\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.dataaccess\\implementation\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.dataaccess\\implementation\\orderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\orderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.dataaccess\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.dataaccess\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CC90-DA24-40ED-B845-5655C8328B53}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|c:\\users\\voltm\\desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.web\\myshop.web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "myshop.Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\myshop.Entities.csproj",
+              "RelativeDocumentMoniker": "myshop.Entities\\myshop.Entities.csproj",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\myshop.Entities.csproj",
+              "RelativeToolTip": "myshop.Entities\\myshop.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T16:54:17.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "myshop.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\myshop.DataAccess.csproj",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\myshop.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\myshop.DataAccess.csproj",
+              "RelativeToolTip": "myshop.DataAccess\\myshop.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T15:16:38.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\Category.cs",
+              "RelativeToolTip": "myshop.Entities\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:23:45.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:39:58.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "myshop.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:47:45.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Utilities\\SD.cs",
+              "RelativeDocumentMoniker": "myshop.Utilities\\SD.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Utilities\\SD.cs",
+              "RelativeToolTip": "myshop.Utilities\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:19:42.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCartVM.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\ViewModels\\ShoppingCartVM.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeToolTip": "myshop.Entities\\ViewModels\\ShoppingCartVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:43:43.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\ViewModels\\OrderVM.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\ViewModels\\OrderVM.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\ViewModels\\OrderVM.cs",
+              "RelativeToolTip": "myshop.Entities\\ViewModels\\OrderVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:43:20.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "myshop.Entities\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:40:07.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IShoppingCartRepository .cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\IShoppingCartRepository .cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Repositories\\IShoppingCartRepository .cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\IShoppingCartRepository .cs",
+              "RelativeToolTip": "myshop.Entities\\Repositories\\IShoppingCartRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:24:51.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "myshop.Entities\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:42:52.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderHeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\IOrderHeaderRepository.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Repositories\\IOrderHeaderRepository.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\IOrderHeaderRepository.cs",
+              "RelativeToolTip": "myshop.Entities\\Repositories\\IOrderHeaderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:42:51.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Repositories\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "myshop.Entities\\Repositories\\IOrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:42:50.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "myshop.Entities\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:42:46.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "myshop.Entities\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:42:45.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryRepository - Copy.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\ICategoryRepository - Copy.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Repositories\\ICategoryRepository - Copy.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Repositories\\ICategoryRepository - Copy.cs",
+              "RelativeToolTip": "myshop.Entities\\Repositories\\ICategoryRepository - Copy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:42:42.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Program.cs",
+              "RelativeToolTip": "myshop.Web\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwDYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:47:45.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Implementation\\ApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Implementation\\ApplicationUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:11:19.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Models\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\OrderHeader.cs",
+              "RelativeToolTip": "myshop.Entities\\Models\\OrderHeader.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:24:12.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "myshop.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\appsettings.json",
+              "RelativeToolTip": "myshop.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T11:48:52.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20230521205000_First.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Migrations\\20230521205000_First.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Migrations\\20230521205000_First.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Migrations\\20230521205000_First.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Migrations\\20230521205000_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:27:08.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20231120061040_AddOrdersTbles.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Migrations\\20231120061040_AddOrdersTbles.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Migrations\\20231120061040_AddOrdersTbles.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Migrations\\20231120061040_AddOrdersTbles.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Migrations\\20231120061040_AddOrdersTbles.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:27:35.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:27:49.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "myshop.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "myshop.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T14:27:56.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "myshop.Utilities.csproj",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj",
+              "RelativeDocumentMoniker": "myshop.Utilities\\myshop.Utilities.csproj",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj",
+              "RelativeToolTip": "myshop.Utilities\\myshop.Utilities.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T14:25:01.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "myshop.Entities\\ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:43:33.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "myshop.Entities\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:24:25.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\Product.cs",
+              "RelativeToolTip": "myshop.Entities\\Models\\Product.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:24:19.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "myshop.Entities\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:24:05.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "myshop.Entities\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:23:52.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Entities\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "myshop.Entities\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:23:28.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "16334666-9418-4950-a62a-d40d855aa437.jpg - Bitmap [225x225, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\16334666-9418-4950-a62a-d40d855aa437.jpg",
+              "RelativeDocumentMoniker": "myshop.Web\\wwwroot\\Images\\Products\\16334666-9418-4950-a62a-d40d855aa437.jpg",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\16334666-9418-4950-a62a-d40d855aa437.jpg - Bitmap [225x225, 24 bit, JPG]",
+              "RelativeToolTip": "myshop.Web\\wwwroot\\Images\\Products\\16334666-9418-4950-a62a-d40d855aa437.jpg - Bitmap [225x225, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-19T14:15:21.673Z",
+              "EditorCaption": " - Bitmap [225x225, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "5f4d61ba-5f02-4a22-8305-1148a341710f.jpg - Bitmap [706x650, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\5f4d61ba-5f02-4a22-8305-1148a341710f.jpg",
+              "RelativeDocumentMoniker": "myshop.Web\\wwwroot\\Images\\Products\\5f4d61ba-5f02-4a22-8305-1148a341710f.jpg",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\5f4d61ba-5f02-4a22-8305-1148a341710f.jpg - Bitmap [706x650, 24 bit, JPG]",
+              "RelativeToolTip": "myshop.Web\\wwwroot\\Images\\Products\\5f4d61ba-5f02-4a22-8305-1148a341710f.jpg - Bitmap [706x650, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-19T14:15:20.503Z",
+              "EditorCaption": " - Bitmap [706x650, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "94ce7506-5034-4417-a9f2-4697c06ea99a.jpg - Bitmap [725x515, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\94ce7506-5034-4417-a9f2-4697c06ea99a.jpg",
+              "RelativeDocumentMoniker": "myshop.Web\\wwwroot\\Images\\Products\\94ce7506-5034-4417-a9f2-4697c06ea99a.jpg",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\94ce7506-5034-4417-a9f2-4697c06ea99a.jpg - Bitmap [725x515, 24 bit, JPG]",
+              "RelativeToolTip": "myshop.Web\\wwwroot\\Images\\Products\\94ce7506-5034-4417-a9f2-4697c06ea99a.jpg - Bitmap [725x515, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-19T14:15:19.703Z",
+              "EditorCaption": " - Bitmap [725x515, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "8b3492a3-7fbd-4356-adaf-532482a6e48e.jpg - Bitmap [706x650, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\8b3492a3-7fbd-4356-adaf-532482a6e48e.jpg",
+              "RelativeDocumentMoniker": "myshop.Web\\wwwroot\\Images\\Products\\8b3492a3-7fbd-4356-adaf-532482a6e48e.jpg",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\8b3492a3-7fbd-4356-adaf-532482a6e48e.jpg - Bitmap [706x650, 24 bit, JPG]",
+              "RelativeToolTip": "myshop.Web\\wwwroot\\Images\\Products\\8b3492a3-7fbd-4356-adaf-532482a6e48e.jpg - Bitmap [706x650, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-19T14:15:18.87Z",
+              "EditorCaption": " - Bitmap [706x650, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "6f147049-df7e-4877-ab8f-56d8966dac89.jpg - Bitmap [1213x1500, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\6f147049-df7e-4877-ab8f-56d8966dac89.jpg",
+              "RelativeDocumentMoniker": "myshop.Web\\wwwroot\\Images\\Products\\6f147049-df7e-4877-ab8f-56d8966dac89.jpg",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\6f147049-df7e-4877-ab8f-56d8966dac89.jpg - Bitmap [1213x1500, 24 bit, JPG]",
+              "RelativeToolTip": "myshop.Web\\wwwroot\\Images\\Products\\6f147049-df7e-4877-ab8f-56d8966dac89.jpg - Bitmap [1213x1500, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-19T14:15:17.713Z",
+              "EditorCaption": " - Bitmap [1213x1500, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "8fc0a8d0-f1c0-4bca-9b0a-2cebff026cda.png - PNG [353x95, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\8fc0a8d0-f1c0-4bca-9b0a-2cebff026cda.png",
+              "RelativeDocumentMoniker": "myshop.Web\\wwwroot\\Images\\Products\\8fc0a8d0-f1c0-4bca-9b0a-2cebff026cda.png",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\8fc0a8d0-f1c0-4bca-9b0a-2cebff026cda.png - PNG [353x95, 32 bit, PNG]",
+              "RelativeToolTip": "myshop.Web\\wwwroot\\Images\\Products\\8fc0a8d0-f1c0-4bca-9b0a-2cebff026cda.png - PNG [353x95, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-19T14:15:16.763Z",
+              "EditorCaption": " - PNG [353x95, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "cc5daf8c-d71b-4a7b-b212-f923aa0274a9.jpg - Bitmap [1500x1213, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\cc5daf8c-d71b-4a7b-b212-f923aa0274a9.jpg",
+              "RelativeDocumentMoniker": "myshop.Web\\wwwroot\\Images\\Products\\cc5daf8c-d71b-4a7b-b212-f923aa0274a9.jpg",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\wwwroot\\Images\\Products\\cc5daf8c-d71b-4a7b-b212-f923aa0274a9.jpg - Bitmap [1500x1213, 24 bit, JPG]",
+              "RelativeToolTip": "myshop.Web\\wwwroot\\Images\\Products\\cc5daf8c-d71b-4a7b-b212-f923aa0274a9.jpg - Bitmap [1500x1213, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-19T14:15:15.427Z",
+              "EditorCaption": " - Bitmap [1500x1213, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StripeData.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Utilities\\StripeData.cs",
+              "RelativeDocumentMoniker": "myshop.Utilities\\StripeData.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Utilities\\StripeData.cs",
+              "RelativeToolTip": "myshop.Utilities\\StripeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:19:57.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Implementation\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\UnitOfWork.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Implementation\\UnitOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:11:36.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Implementation\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Implementation\\ShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:11:35.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Implementation\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\ProductRepository.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Implementation\\ProductRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:11:28.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:07:12.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Utilities\\EmailSender.cs",
+              "RelativeDocumentMoniker": "myshop.Utilities\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Utilities\\EmailSender.cs",
+              "RelativeToolTip": "myshop.Utilities\\EmailSender.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:19:38.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "myshop.Web",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\myshop.Web.csproj",
+              "RelativeDocumentMoniker": "myshop.Web\\myshop.Web.csproj",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\myshop.Web.csproj",
+              "RelativeToolTip": "myshop.Web\\myshop.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T15:20:03.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrderHeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\OrderHeaderRepository.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Implementation\\OrderHeaderRepository.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\OrderHeaderRepository.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Implementation\\OrderHeaderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:11:27.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Implementation\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\OrderDetailRepository.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Implementation\\OrderDetailRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:11:26.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Implementation\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\GenericRepository.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Implementation\\GenericRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:48:46.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Implementation\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.DataAccess\\Implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Implementation\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:11:23.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeToolTip": "myshop.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:47:44.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:43:54.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAmwIoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:28:25.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwD8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:26:46.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:26:44.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Lockout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:26:43.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:26:39.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ForgotPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:26:38.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:26:36.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:26:28.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:26:27.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:26:27.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ConfirmEmailChange.cshtml",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:26:26.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:26:25.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:26:24.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AccessDenied.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:26:20.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\voltm\\Desktop\\\u0627\u0644\u0646\u0642\u0627\u0634\\myshop.Web\\myshop.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:05:24.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
